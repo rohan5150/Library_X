@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Aug 21 00:06:41 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0165-589f-ecf6-0000069a8858 
+on database directory /home/beast/Documents/Library_X/database with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/beast/Documents/java_tools/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-8u181-b13-0ubuntu0.18.04.1-b13
+user.dir=/home/beast/Documents/Library_X
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-23-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

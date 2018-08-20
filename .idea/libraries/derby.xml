@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="derby">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../java_tools/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java_tools/derbyclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java_tools/fontawesomefx-8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java_tools/gson-2.3.1_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../java_tools/jfoenix-8.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
