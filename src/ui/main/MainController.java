@@ -175,6 +175,7 @@ public class MainController implements Initializable, BookReturnCallback {
     void handleDragPress(MouseEvent event) {
         OffSetY = event.getSceneY();
         OffsetX = event.getSceneX();
+        System.out.println("test Git");
     }
 
     @FXML
